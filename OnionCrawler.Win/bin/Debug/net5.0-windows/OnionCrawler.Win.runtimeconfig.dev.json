@@ -1,0 +1,10 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ozelu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ozelu\\.nuget\\packages",
+      "D:\\DevExpress 20.2\\Components\\Offline Packages",
+      "D:\\Syncfusion\\Essential Studio\\WPF\\19.1.0.54\\ToolboxNuGetPackages"
+    ]
+  }
+}

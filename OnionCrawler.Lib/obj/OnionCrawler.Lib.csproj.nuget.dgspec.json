@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ozelu\\Desktop\\Onion Crawler Remake\\onion-crawler\\OnionCrawler.Lib\\OnionCrawler.Lib.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ozelu\\Desktop\\Onion Crawler Remake\\onion-crawler\\OnionCrawler.Lib\\OnionCrawler.Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ozelu\\Desktop\\Onion Crawler Remake\\onion-crawler\\OnionCrawler.Lib\\OnionCrawler.Lib.csproj",
+        "projectName": "OnionCrawler.Lib",
+        "projectPath": "C:\\Users\\ozelu\\Desktop\\Onion Crawler Remake\\onion-crawler\\OnionCrawler.Lib\\OnionCrawler.Lib.csproj",
+        "packagesPath": "C:\\Users\\ozelu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ozelu\\Desktop\\Onion Crawler Remake\\onion-crawler\\OnionCrawler.Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\DevExpress 20.2\\Components\\Offline Packages",
+          "D:\\Syncfusion\\Essential Studio\\WPF\\19.1.0.54\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ozelu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.33, )"
+            },
+            "HttpToSocks5Proxy": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

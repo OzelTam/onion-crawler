@@ -1,0 +1,9 @@
+C:\Users\ozelu\Desktop\Onion Crawler Remake\onion-crawler\OnionCrawler.Lib\bin\Debug\netstandard2.1\OnionCrawler.Lib.deps.json
+C:\Users\ozelu\Desktop\Onion Crawler Remake\onion-crawler\OnionCrawler.Lib\bin\Debug\netstandard2.1\OnionCrawler.Lib.dll
+C:\Users\ozelu\Desktop\Onion Crawler Remake\onion-crawler\OnionCrawler.Lib\bin\Debug\netstandard2.1\OnionCrawler.Lib.pdb
+C:\Users\ozelu\Desktop\Onion Crawler Remake\onion-crawler\OnionCrawler.Lib\obj\Debug\netstandard2.1\OnionCrawler.Lib.csprojAssemblyReference.cache
+C:\Users\ozelu\Desktop\Onion Crawler Remake\onion-crawler\OnionCrawler.Lib\obj\Debug\netstandard2.1\OnionCrawler.Lib.AssemblyInfoInputs.cache
+C:\Users\ozelu\Desktop\Onion Crawler Remake\onion-crawler\OnionCrawler.Lib\obj\Debug\netstandard2.1\OnionCrawler.Lib.AssemblyInfo.cs
+C:\Users\ozelu\Desktop\Onion Crawler Remake\onion-crawler\OnionCrawler.Lib\obj\Debug\netstandard2.1\OnionCrawler.Lib.csproj.CoreCompileInputs.cache
+C:\Users\ozelu\Desktop\Onion Crawler Remake\onion-crawler\OnionCrawler.Lib\obj\Debug\netstandard2.1\OnionCrawler.Lib.dll
+C:\Users\ozelu\Desktop\Onion Crawler Remake\onion-crawler\OnionCrawler.Lib\obj\Debug\netstandard2.1\OnionCrawler.Lib.pdb
