@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EPPlus" Version="5.6.3" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.33" />
+    <PackageReference Include="HttpToSocks5Proxy" Version="1.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="OraclesBridge">
+      <HintPath>..\..\..\..\..\..\Libraries\TorSharp\artifacts\MGNS\TorSharp\bin\Release\netstandard2.0\OraclesBridge.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
